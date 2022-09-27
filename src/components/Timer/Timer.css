@@ -1,0 +1,31 @@
+.timer {
+    width: 700px;
+    height: 150px;
+    border: 10px black;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+
+    font-family: Calibri, serif;
+    font-size: 25px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.timer span{
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.timer button{
+    width: 55px;
+    height: 22px;
+    margin-left: 5px;
+    margin-right: 15px;
+    border: 20px white;
+    border-radius: 15px;
+    color: white;
+}
